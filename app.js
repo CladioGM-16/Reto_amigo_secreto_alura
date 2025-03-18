@@ -54,5 +54,5 @@ function reiniciarLista() {
     cantidad = 0;
     mostrarAmigos();
     document.getElementById("resultado").innerHTML = "";
-    alert("Lista vacia");
+    alert("Se reinicio los nomnbres");
 }
