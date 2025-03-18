@@ -24,4 +24,8 @@ Reiniciar la lista en cualquier momento.
 3 Una vez agregados varios amigos, haz clic en **"Sortear Amigo"** para seleccionar uno aleatoriamente.  
 4 Si deseas empezar de nuevo, usa el botón **"Reiniciar Lista"**.  
 
+##  **Demo en Vivo**
+Puedes probar la aplicación aquí:  
+**[Amigo Secreto - Demo](https://cladiogm-16.github.io/Reto_amigo_secreto_alura/)**  
 
+---
