@@ -8,7 +8,7 @@ let cantidad = 0;
 
 function agregarAmigo( ){
     let amigos=document.getElementById("amigo").value;
-    if (amigos === "" || amigos.length == 3 ) {
+    if (amigos === "" ||  amigos.length < 4 ) {
         alert("Ingrese un nombre valido");
         return;
     }
